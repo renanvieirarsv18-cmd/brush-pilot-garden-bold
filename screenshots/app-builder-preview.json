@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Guia da Recepção",
+      "hasCanvas": false,
+      "bodyTextLen": 526,
+      "bodyTextHash": "f9f6dcbef0f6100ff069e9faf3a04e627d445c13e088f3f133b0cb8fbe75a6aa",
+      "bodyTextPrefix": "CCPL Abade Recepção Quadro Lista Trilha Buscar A aprender 4 Matr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Guia da Recepção",
+      "hasCanvas": false,
+      "bodyTextLen": 526,
+      "bodyTextHash": "f9f6dcbef0f6100ff069e9faf3a04e627d445c13e088f3f133b0cb8fbe75a6aa",
+      "bodyTextPrefix": "CCPL Abade Recepção Quadro Lista Trilha Buscar A aprender 4 Matr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
